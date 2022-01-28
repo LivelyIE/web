@@ -12,8 +12,7 @@ Any gifts will require an accompanying signed letter from the sender that outlin
 * A statement that the gift is non-returnable and that the sender waives all interest in the property.
 
 
-Tax Implications of Gifts
--------------------------
+## Tax Implications of Gifts
 
 
 During a calendar year any individual can gift up to €3,000 to another. This means that *each parent* could theoretically 
@@ -32,8 +31,7 @@ In the most common scenario, whereby a parent gifts a child a lump sum, there is
 For other direct relatives such as a sibling or niece, the allowance is €32,500. For anyone else, the allowance is €16,250.
 
 
-Interest-Free Loans from Relatives
-----------------------------------
+## Interest-Free Loans from Relatives
 
 
 To avoid eating into the lifetime gift allowance parents will sometimes lend their child money without a set repayment date or an expectation 

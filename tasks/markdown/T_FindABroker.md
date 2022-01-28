@@ -16,8 +16,7 @@ While a broker is not required, here are some reasons you might consider working
 * **Exclusive Rates** - As you can see in the Live Interest Rates section of the app, some lenders work exclusively through brokers.
 
 
-Broker Fees
------------
+## Broker Fees
 
 
 All brokers make commission from lenders and insurance providers for signing you up as a customer. Some brokers may also charge a fee for their services.

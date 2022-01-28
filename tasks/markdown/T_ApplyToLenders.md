@@ -4,8 +4,7 @@ Once you have your documents ready, it's time to start reaching out to lenders! 
  
 
 
-Approval in Principle
----------------------
+## Approval in Principle
 
 
 When you submit your initial financial information to a lender, they will grant you *Approval in Principle* (AIP). Approval in principle is an estimate of

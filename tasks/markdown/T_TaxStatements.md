@@ -6,8 +6,7 @@ If commission and bonus pay will be factored into your mortgage application, you
  Note that prior to 2019, this document was known as your *P60*.
 
 
-Self Employed
--------------
+## Self Employed
 
 
 If you are self employed, you will need in addition:

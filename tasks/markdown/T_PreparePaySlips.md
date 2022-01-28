@@ -8,8 +8,7 @@ Most banks will require your most recent three months of payslips as part of you
 
   
 
-What if I'm self employed?
---------------------------
+## What if I'm self employed?
 
 
 If you are self employed you will need two or three years of audited accounts 
