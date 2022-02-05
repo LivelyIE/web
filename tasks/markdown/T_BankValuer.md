@@ -1,22 +1,14 @@
-
-Your lender will require a professional valuation of the property before they sign off on the mortgage. 
- Your lender will often recommend a person or company for you to hire, who will provide a copy of the report to both of you.
+Your lender will require a professional valuation of the property before they sign off on the mortgage. Your lender will often recommend a person or company for you to hire, who will provide a copy of the report to both of you.
  
-
-
 The aim of the valuation is to ensure that the property is of sufficient value to cover the cost of the loan.
  The valuer will provide an overview of the condition of the property as well as a comparison to
  the sale prices of other properties in the area, if applicable. 
- 
 
 
 ### What if the valuation of the property is less than what I agreed to pay?
 
-
 The lender will not approve a mortgage in the case where they feel the home could not be sold to cover the cost of the loan.
  In the rare case this happens, you have a few options:
- 
-
 
 * Pay a larger deposit to cover the difference between the agreed price and the valuation. 
  For example, if you were intending to pay a deposit of €30,000 on a home you agreed to purchase for €300,000 and
