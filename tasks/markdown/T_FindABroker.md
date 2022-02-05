@@ -1,11 +1,7 @@
-
 A mortgage broker is a professional who deeply understands the ins and outs of the mortgage process and typically has a working relationship
  with numerous lenders. 
  
-
-
 While a broker is not required, here are some reasons you might consider working with one:
-
 
 * **Advice** - A broker will be able to provide advice specific to your situation.
 * **Time Saving** - Working with lenders for mortgage approval can take a lot of time and effort. 
@@ -18,10 +14,6 @@ While a broker is not required, here are some reasons you might consider working
 
 ## Broker Fees
 
-
 All brokers make commission from lenders and insurance providers for signing you up as a customer. Some brokers may also charge a fee for their services.
  Using a broker will not increase the cost of these products.
  
-
-
-
