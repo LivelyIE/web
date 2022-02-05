@@ -1,12 +1,8 @@
 {
-    "T_ApplyToLenders": [
+    "T_GiftLetter": [
         {
             "id": "bank-of-mum-and-dad-tax-implications",
-            "title": "Tax on Gifts & Loans From Your Parents for a Deposit"
-        },
-        {
-            "id": "bank-of-mum-and-dad-tax-implications",
-            "title": "Tax on Gifts & Loans From Your Parents for a Deposit"
+            "title": "Tax on Gifts & Loans For a Deposit From Your Parents"
         }
     ]
 }
