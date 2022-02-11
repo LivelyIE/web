@@ -14,7 +14,7 @@ Given the volatility of the cryptocurrency market since its inception, lenders n
 
 As long as you are consistent with your investments and still have regular savings, *most* lenders will not be concerned that you are investing in the cryptocurrency market. Monthly purchases may even be counted towards your "repayment capacity", i.e. the max amount you could in theory contribute to monthly mortgage repayments.
 
-If you are only occasionally investing in cryptocurrencies make sure it's with your disposable income and that you don't dip into your regular monthly savings to try and make a quick profit. If you want to give yourself the best chance with every lender on the market it may be best to avoid purchases of cryptocurrency in the six months leading up to your mortgage application. 
+If you are only occasionally investing in cryptocurrencies make sure it's with your disposable income and that you don't dip into your regular monthly savings to try to make a quick profit. If you want to give yourself the best chance with every lender on the market it may be best to avoid purchases of cryptocurrency in the six months leading up to your mortgage application. 
 
 
 ## Can Profits on Stocks and Cryptocurrencies Contribute to a Deposit?
