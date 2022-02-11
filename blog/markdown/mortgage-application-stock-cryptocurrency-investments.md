@@ -10,7 +10,7 @@ If you are investing sporadic sums of money chasing short-term gains or regularl
 
 ## Investing in Cryptocurrencies Like Bitcoin and Ethereum
 
-Given the volatility of the cryptocurrency market since its inception, lenders naturally see investments in cryptocurrency as risky. Lenders have a variety of views on the asset class, with some seeing it as something close gambling while others see it as a speculative investment. 
+Given the volatility of the cryptocurrency market since its inception, lenders naturally see investments in cryptocurrency as risky. Lenders have a variety of views on the asset class, with some considering it close to gambling while others see it as a speculative investment. 
 
 As long as you are consistent with your investments and still have regular savings, *most* lenders will not be concerned that you are investing in the cryptocurrency market. Monthly purchases may even be counted towards your "repayment capacity", i.e. the max amount you could in theory contribute to monthly mortgage repayments.
 
