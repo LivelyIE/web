@@ -29,4 +29,3 @@ Cons of apartments:
 
 * You are more likely to be frustrated by noise pollution with potential neighbours beside, above and below you. 
 * If you have a bad management company you will need to pressure them to get things done.
-* 
