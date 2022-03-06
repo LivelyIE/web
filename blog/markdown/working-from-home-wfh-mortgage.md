@@ -6,7 +6,7 @@ The move to remote work has also been seen by home buyers as a way to move outsi
 
 This trend is clearly reflected in how home prices rose in 2021, with properties outside Dublin [rising faster than within](https://www.thejournal.ie/property-prices-rise-14-5659106-Jan2022/). Outside Dublin apartment prices rose by a staggering 17.5% and house prices by 13.5%. In Dublin the increase was 9.7% for apartments and 13.5% for houses.
 
-## Mortgage Lender Requirements for Applicants Working From Home
+## Remote Work Letter for Employees Working From Home
 
 Some mortgage lenders are concerned that if an employee purchases a home a significant distance from their place of work and is then asked to return to the office that it could put a strain on that person’s ability to do their job and put their employment at risk. 
 
