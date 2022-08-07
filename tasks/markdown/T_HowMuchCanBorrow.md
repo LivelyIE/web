@@ -11,7 +11,7 @@ The maximum amount you can borrow is typically 3.5 times the **pre-tax** income 
 A percentage of mortgage loans granted by a bank can be above the 3.5 times income limit. 
  You will need to be able to show your bank that you are able to comfortably meet your monthly mortgage repayments if granted an exception.
  Generally, the later it is in the year the more difficult it is to acquire an exception as banks begin to use up their yearly allowance.
- Discuss your situation with any lenders you approach to determine if you may be eligible.
+ Try the Lively in-app calculator to help determine if you might be eligible for an exception and discuss your situation with any lenders or brokers you approach. 
  
 
 ### How are bonuses and commission factored into my borrowing limit?

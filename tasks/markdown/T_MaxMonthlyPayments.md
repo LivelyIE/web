@@ -13,13 +13,15 @@ Regular expenses are considered against your repayment capacity:
  Depending on the bank, this can be roughly €250 and will decrease per child.
 
 Your bank will combine these factors and "stress test" them to ensure that you will be able to manage a possible increase in interest rates.
- One way banks stress test your income is by testing it against a hypothetical 2% increase in interest rates. 
+ Lenders stress test your income by testing it against a hypothetical 2% increase in interest rates. 
  
 
-### Example Calculation
+### Calculating Your Maximum Monthly Repayment
 
+Try the Lively's in-app calculator to calculate an estimate of your max monthly repayment based on your finances. 
+ Here's an example of how an estimate might look: 
 
-Imagine a couple saving a combined €1000 per month. They are paying €1400 in rent, and regularly have €50 in disposable income left after expenses.
- This would total €2450 that may contribute to mortgage repayments. Detracting an additional buffer of €250 for their child, they have €2200 remaining. 
+Imagine a couple saving a combined €1000 per month and who are paying €1400 in rent.
+ This would total €2400 that may contribute to mortgage repayments. Detracting an additional buffer of €250 for their child, they have €2150 remaining. 
  Lastly, they reduce the total by roughly 25% to mimic the bank's "stress test", estimating their maximum monthly payment at €1650. 
  
