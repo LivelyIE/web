@@ -17,3 +17,13 @@ This new requirement has posed challenges for companies who are still trying to 
 ## What is Considered a Commutable Distance?
 
 The exact policy varies by lender with each having a different view on commute distance. It isn't uncommon for commuters to travel 90 minutes or more for work, though for longer distances you'll need to ask yourself if a lender might raise their eyebrows if they felt your employer could ask you to return to the office. Your bank may not flag this on your application until you get to the drawdown stage so it’s best to discuss it early in your application with your lender directly or your mortgage broker. 
+
+## Sample Letter of Remote Work
+
+A statement of remote work status should come in the form of a brief document on company letterhead from either your HR department or your manager. 
+
+The remote status of employment can be stated in the same employment letter/salary certificate given to you by your employer to prove your employment or it may be in a separate document. 
+
+You can use the following sample as a reference:
+
+_**[Ciarán Fooly]** is employed as a **[Software Engineer]** at **[Lively.ie]**. They can work remotely from anywhere in Ireland **[for X days per month]** without affecting their continued employment at the organization._
