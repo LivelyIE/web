@@ -7,3 +7,4 @@ A salary certificate will need to be requested from your employer.
 * If you have completed your probationary period.
 * Your guaranteed base salary.
 * Details of any bonuses or commissions you are eligible for.
+* Whether the position is in-office, remote or a hybrid. 
