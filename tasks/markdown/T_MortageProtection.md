@@ -7,13 +7,6 @@ Make sure to shop around as rates can vary significantly. You do not need to tak
 It's important to start searching for mortgage protection early as not having it in place is a common cause of drawdown delays. Usually you can acquire it in a matter of days, however it can take weeks if you have any underlying health issues as you may need a letter from your doctor and insurers will need more time to evaluate your application.
 
 
-### Mortgage Protection Insurance with Health Issues
-
-particularly if you have any underlying health issues as getting a quote can take weeks if you need to get a letter from your doctor on. You can apply for mortgage protection insurance as soon as you have mortgage Approval in Principle (AIP).
-
-Not having mortgage protection in place is a common reason for delays in buying a home. 
-
-
 ### Reducing Term Cover vs Level Term Cover
 
 When searching for mortgage protection insurance, you will come across the the phrases *reducing term*
