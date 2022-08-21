@@ -2,7 +2,16 @@ Mortgage Protection insurance is a type of life insurance that pays off your mor
  one of the policy holders die.
  You will be required by law to take out mortgage protection insurance before your loan is approved.
  
-Make sure to shop around, as rates can vary significantly.
+Make sure to shop around as rates can vary significantly. You do not need to take out mortgage protection insurance with your lender.
+
+It's important to start searching for mortgage protection early as not having it in place is a common cause of drawdown delays. Usually you can acquire it in a matter of days, however it can take weeks if you have any underlying health issues as you may need a letter from your doctor and insurers will need more time to evaluate your application.
+
+
+### Mortgage Protection Insurance with Health Issues
+
+particularly if you have any underlying health issues as getting a quote can take weeks if you need to get a letter from your doctor on. You can apply for mortgage protection insurance as soon as you have mortgage Approval in Principle (AIP).
+
+Not having mortgage protection in place is a common reason for delays in buying a home. 
 
 
 ### Reducing Term Cover vs Level Term Cover
@@ -19,7 +28,6 @@ Reducing term is the cheapest and most common option for mortgage protection ins
 
 ### Covid-19 and Mortgage Protection
 
-If you had Covid-19 or have been a close contact insurers will not consider your application 
- until a period after you are symptom free or your self isolation has ended. Typically, you will be reconsidered 
- one month from when you last had symptoms but some insurers have delayed applications by up to 6 months.
+If you have had Covid-19 insurers will not consider your application 
+ until a period after you are symptom free. Typically, you will be reconsidered one month from when you last had symptoms.
  
