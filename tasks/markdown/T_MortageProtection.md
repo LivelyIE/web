@@ -4,7 +4,7 @@ Mortgage Protection insurance is a type of life insurance that pays off your mor
  
 Make sure to shop around as rates can vary significantly. You do not need to take out mortgage protection insurance with your lender.
 
-It's important to start searching for mortgage protection early as not having it in place is a common cause of drawdown delays. Usually you can acquire it in a matter of days, however it can take weeks if you have any underlying health issues as you may need a letter from your doctor and insurers will need more time to evaluate your application.
+It's important to search for mortgage protection early as not having it in place is a common cause of drawdown delays. Usually you can acquire it in a few days, however it can take weeks if you have any underlying health issues as you may need a letter from your doctor and insurers will need more time to evaluate your application.
 
 
 ### Reducing Term Cover vs Level Term Cover
