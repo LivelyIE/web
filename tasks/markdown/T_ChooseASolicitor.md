@@ -2,8 +2,7 @@ The type of solicitor you will need to take care of the legalities of buying a h
  You should begin searching for one as soon as you start looking for a home.
  
 Ask family and friends if they can recommend someone and search online for a solicitor in your local area. 
- You may need to meet with them in person just once to sign the the contracts, the rest can happen over phone and email, 
- but it's convenient to hire one that is close to your home or place of work.
+ You may need to meet with them in person just once to sign the the contracts. The contract signing can also happen online depending on the solicitor. Most of your interactions will be over email and phone. 
  
 When searching for a solicitor, be sure to ask around and get itemised quotes before making a final decision. 
  Most of the fees will be fixed and vary very little per quote. The *Professional Fee* is usually the name of the 
