@@ -6,3 +6,8 @@ Once you sign the contracts, you are legally obliged to purchase the property an
  
 Your solicitor will determine a closing date with the seller, at which point you will own the property as long as the seller has received full payment.
  
+### Include Appliances and Fixtures in the Contract
+
+It's not always clear to the buyer what is included in a home sale other than the physical building. Items like appliances, light fittings and wall fixtures are all up for negotiation. Any agreements here should be in the contract as you can't rely on a verbal agreement to be sure these will be left in the home when you get the keys. For particularly expensive appliances you might even consider noting the model in the contract to ensure the seller doesn't replace them with cheaper versions before they leave. 
+
+Be sure to include a clause in the contract that anything not included in the sale needs to be removed by the seller, otherwise you may end up with a bunch of abandoned rubbish you'll need to dispose of. 
