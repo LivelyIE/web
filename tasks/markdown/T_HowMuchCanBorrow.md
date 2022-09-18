@@ -5,7 +5,7 @@ The maximum amount you can borrow is typically 3.5 times the **pre-tax** income 
 
 ### How can I get an exception to the typical borrowing limits?
 
-A percentage of mortgage loans granted by a bank can be above the 3.5x income limit to raise the borrowing limit up to 4.5x or even 5x income for strong applications. 
+A percentage of mortgage loans granted by a bank can be above the 3.5x income limit. Exceptions allow buyers to raise their borrowing limit up to 4.5x-5x income for strong applications. 
  You will need to be able to show your bank that you are able to comfortably meet your monthly mortgage repayments if granted an exception.
  Generally, the later it is in the year the more difficult it is to acquire an exception as banks begin to use up their yearly allowance.
  Try the Lively in-app calculator to help determine if you might be eligible for an exception and discuss your situation with any lenders or brokers you approach. 
