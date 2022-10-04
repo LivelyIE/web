@@ -16,3 +16,8 @@ As you can see, opting for a higher monthly repayment to shorten your mortgage l
 
 The maximum length of your mortgage will depend on your age and overall health, with banks being more willing to extend the length of mortgages of younger people.
  Lenders in Ireland typically max out at 35 year mortgages.
+
+
+### What happens if I want to end the mortgage before the term ends?
+
+If you want to move home or change your mortgage contract before your fixed term ends you'll usually need to pay a 'break fee' to your lender. These fees are calculated by a formula set by the European Central Bank and can range from very little to thousands of Euro. As general guide, when interest rates go down your break fee will get higher. 
