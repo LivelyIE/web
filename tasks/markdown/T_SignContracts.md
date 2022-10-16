@@ -5,6 +5,10 @@ Once you sign the contracts, you are legally obliged to purchase the property an
  If you pull out of the sale after this point, you may lose your deposit.
  
 Your solicitor will determine a closing date with the seller, at which point you will own the property as long as the seller has received full payment.
+
+### Subject To Loan Clause
+
+A _Subject to Loan_ clause is a clause in the contract stating that you can legally pull out of a sale and reclaim your deposit if you are unable to finalise your mortgage with a lender. This can happen in situations such as when interest rates rise and increase your potential monthly repayment to an amount you could no longer afford, in which case a lender wouldn't approve the loan. Although most solicitors will include this clause, talk to your solicitor to ensure you are protected. 
  
 ### Include Appliances and Fixtures in the Contract
 
