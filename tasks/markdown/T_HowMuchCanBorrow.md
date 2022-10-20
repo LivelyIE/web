@@ -1,11 +1,14 @@
-As a first time buyer, you cannot borrow more than 90% of the value of the home. This is known as the *Loan-To-Value* (LTV) ratio. This means if you have €30,000 for a home deposit as first time buyer you can borrow a maximum of €270,000 on top of that. 
- For second time or subsequent buyers, the LTV ratio is 80%.
+## Based on Savings
+
+You cannot borrow more than 90% of the value of the home. This is known as the *Loan-To-Value* (LTV) ratio. This means if you have €30,000 for a home deposit you can borrow a maximum of €270,000 on top of that. 
+
+## Based on Income
  
-The maximum amount you can borrow is typically 3.5 times the **pre-tax** income of you, or you and your partner if making a joint application.
+The maximum amount you can borrow as a first time buyer is 4x times the **pre-tax** income of you, or you and your partner if making a joint application. For subsequent buyers the limit is 3.5x income.
 
 ### How can I get an exception to the typical borrowing limits?
 
-A percentage of mortgage loans granted by a bank can be above the 3.5x income limit. Exceptions allow buyers to raise their borrowing limit up to 4.5x-5x income for strong applications. 
+A percentage of mortgage loans granted by a bank can be above the standard 3.5x/4x income limit. Exceptions allow buyers to raise their borrowing limit up to 4.5x-5x income for strong applications. 
  You will need to be able to show your bank that you are able to comfortably meet your monthly mortgage repayments if granted an exception.
  Generally, the later it is in the year the more difficult it is to acquire an exception as banks begin to use up their yearly allowance.
  Try the Lively in-app calculator to help determine if you might be eligible for an exception and discuss your situation with any lenders or brokers you approach. 
