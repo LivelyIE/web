@@ -22,3 +22,7 @@ A great way to find out about homes you're eyeing up is simply to type the addre
  While this isn't necessarily a bad thing and can happen for perfectly normal reasons, like some last minute cold feet, it could mean that another bidder found
  a problem.
  
+ 
+ ### Flood Risk Map
+
+You can find out if a home is at risk of flooding at [floodinfo.ie](https://www.floodinfo.ie/). Flooding of your home can cause you a significant amount of emotional and financial stress. Flood risk homes are also challenging to insure which will be a requirement for securing a mortgage. 
