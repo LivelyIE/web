@@ -10,7 +10,7 @@ Stamp Duty is payable on the purchase of any home. For homes valued at less than
 
 ### Solicitor Fees
 
-You will need a solicitor to carry out the legal aspects of purchasing a home. Prices vary from €1,400 to in excess of €2,000.
+You will need a solicitor to carry out the legal aspects of purchasing a home. Prices vary from €1,500 to in excess of €2,000.
 
 ### Government Fees
 
