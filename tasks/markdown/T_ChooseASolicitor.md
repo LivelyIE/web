@@ -18,5 +18,6 @@ You generally won't incur any costs until you are sale agreed on a property.
 
 ### How long does the process take once I am sale agreed?
 
-The conveyancing process generally takes 6-8 weeks, although it's not uncommon to experience delays.
+The conveyancing process generally takes anywhere from 6-12 weeks depending on your solicitor, the seller's solicitor and if there are any issues with the legal status of the home such as errors or omissions in official records. 
+
  
