@@ -25,3 +25,7 @@ What banks consider your *variable income* are things like commission, bonuses a
 
 Yes, though of course you will need to sell the assets and you may need to prove to your lender that you have covered tax owed on any profits.
  
+
+## Consider a Mortgage Broker
+
+If you feel like you could use a helping hand with your mortgage application then a mortgage broker is a professional with a deep understanding of the process who will make the process easier for you. Choose from one of the brokers in the Lively app to make your application quicker and save thousands by finding the best rate for you.
