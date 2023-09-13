@@ -32,5 +32,6 @@ Cons of apartments:
 A key difference between purchasing an apartment over a house is that you will need to pay yearly management fees to cover maintenance costs on the building. These can be €1,000 - €2,000 or much higher depending on the building.
 
 
-### Additional Deposit Required for One-Bedroom Homes
-Be careful about choosing a home with one bedroom as sometimes lenders will require a 20% deposit rather than 10%. This is due data suggesting one-bedroom homes are harder to sell and the added risk that if you run into financial difficulty you won't have another bedroom to rent for additional income. Talk to your lender or broker before bidding on a one-bedroom home. 
+### Additional Considerations for One-Bedroom Homes
+Be careful about choosing a home with one bedroom as sometimes lenders will require a 20% deposit rather than 10%. Talk to your lender or broker before bidding on a one-bedroom home. Another concern with single bedroom homes is that you will not have the option to rent another bedroom if you need to.
+
