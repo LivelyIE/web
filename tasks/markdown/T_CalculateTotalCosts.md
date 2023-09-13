@@ -1,4 +1,4 @@
-Your deposit isn't the only thing you'll need to have saved when buying a home. There are other recurring and one-off costs you'll need to consider. 
+Your deposit isn't the only thing you'll need to have saved when buying a home. There are other one-off costs you'll need to show your lender that you have savings to cover *as well as* your deposit before being granted mortgage approval.
  For example, purchasing a home valued at €350,000 will carry additional costs of €6,000 - €7,000.
  
 
@@ -12,13 +12,14 @@ Stamp Duty is payable on the purchase of any home. For homes valued at less than
 
 You will need a solicitor to carry out the legal aspects of purchasing a home. Prices vary from €1,500 to in excess of €2,000.
 
-### Government Fees
+
+### Government Fees (AKA Solicitor 'Outlays')
 
 There are a number of fees payable to the government when purchasing a home, such as registering new owners into official records. 
  Your solicitor will take care of these for you, though you should set aside €1,100 to cover the cost.
 
 
-### Surveyors Report
+### Surveyor Report
 
 While not mandatory, it is highly recommended that you hire a surveyor after you are sale agreed on a home to evaluate its condition. 
  Depending on location and demand, this can cost €400 or more.

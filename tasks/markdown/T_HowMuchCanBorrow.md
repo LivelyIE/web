@@ -1,6 +1,6 @@
 ## Based on Savings
 
-You cannot borrow more than 90% of the value of the home. This is known as the *Loan-To-Value* (LTV) ratio. This means if you have €30,000 for a home deposit you can borrow a maximum of €270,000 on top of that. 
+You cannot borrow more than 90% of the value of the home. This is known as the *Loan-To-Value* (LTV) ratio. This means if you have a 10% deposit of €30,000  you can borrow a maximum of €270,000 on top of that. 
 
 ## Based on Income
  
