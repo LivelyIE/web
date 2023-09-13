@@ -30,4 +30,8 @@ To avoid eating into the lifetime gift allowance parents will sometimes lend the
 Both Revenue and your lender will require the terms of the loan in a contract and signed by all parties involved. Your lender may also ask you to 
  create a “Deed of Confirmation” with your parents. This legal document will state that the bank has precedence to the property in 
  case legal or financial issues arise in future.
- 
+
+
+## Using a Temporary Gift Letter for Approval in Principle
+
+Unfortunately a lender won't grant you mortgage Approval in Principle without a full deposit saved including enough for Stamp Duty and other costs. However if you will have the full amount saved in a matter of months you can speed things up by using a gift letter from a family member that states they will cover the difference even if you don't actually intend to use the gifted amount. Generally the family member won't even be required to transfer you the money, the gift letter will be sufficient to assure the lender that the funds are available.
