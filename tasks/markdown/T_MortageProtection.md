@@ -18,9 +18,4 @@ Reducing term means that the amount the policy covers will reduce over time.
  
 Reducing term is the cheapest and most common option for mortgage protection insurance. 
  
-
-### Covid-19 and Mortgage Protection
-
-If you have had Covid-19 insurers will not consider your application 
- until a period after you are symptom free. Typically, you will be reconsidered one month from when you last had symptoms.
  
