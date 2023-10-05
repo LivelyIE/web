@@ -16,7 +16,7 @@ You will need a solicitor to carry out the legal aspects of purchasing a home. P
 ### Government Fees (AKA Solicitor 'Outlays')
 
 There are a number of fees payable to the government when purchasing a home, such as registering new owners into official records. 
- Your solicitor will take care of these for you, though you should set aside €1,100 to cover the cost.
+ Your solicitor will take care of this for you, though you should set aside €1,100 to cover the cost.
 
 
 ### Surveyor Report
