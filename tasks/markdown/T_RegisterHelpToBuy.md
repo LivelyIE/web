@@ -37,8 +37,7 @@ Importantly you do not need to own the property before you apply, proof of engag
 
 The First Home Scheme is a shared equity scheme whereby the government will help you purchase a home and take an equity stake in the home. It is intended for buyers who are unable to afford a home despite availing of their maximum mortgage amount. You can use it to cover up to 30% of the purchase cost (or 20% if used alongside the *Help To Buy Scheme*). The scheme is available for new homes, self-builds or to purchase a home if your landlord is selling it. 
 
-
-### Example Scenario
+### Example Scenario
 
 Take a couple earning a total of €60k with a €35k deposit hoping to purchase a property worth €350k. Under borrowing rules they can only afford a mortgage of €240k, the mortgage with their deposit leaves a gap of €75k which they can cover using the First Home Scheme.
 
