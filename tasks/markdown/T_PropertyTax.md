@@ -4,7 +4,7 @@ Your solicitor will verify that there are no outstanding taxes due on the proper
 ### Who is liable to pay LPT in the event of a sale?
 
 The owner of the property on November 1st of a given year is responsible for the payment for the following year. 
- So if you own a home on November 1st 2021, you are responsible for paying the tax for 2022.
+So if you own a home on November 1st 2021 you are responsible for paying the tax for 2022, however, when a home is sold it is typical for the buyer to repay the seller for the period they will own the home.
 
 
 ### What if my home is a new build?

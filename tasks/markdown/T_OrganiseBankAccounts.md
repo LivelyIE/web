@@ -1,16 +1,16 @@
-Your lender will look back through six months of your bank statements when applying for a mortgage so it's a good idea to clearly structure savings and expenses at least six months beforehand. Note that your lender will request statements for all bank accounts you have including those like *Revolut*. 
+Your lender will look back through six months of your bank statements when applying for a mortgage so it's a good idea to clearly structure savings and expenses beforehand. Your lender will request statements for all bank accounts you have including those like *Revolut*. 
 
 
 ## Structure Your Savings
 
-Your lender will expect you to save consistently each month. Missing a month or reducing the saving amount could impact your application. It's a good idea to open a separate account to save into which you should avoid withdrawing from. Many people have two savings accounts in the run up to their mortgage application - one purely for saving for their home and another for short-term savings goals like holidays, weddings, etc. 
+It's a good idea to open a separate account to save into. Many people have two savings accounts in the run up to their mortgage application - one purely for saving for their home and another for short-term savings goals like holidays, weddings, etc. Your lender will expect you to save consistently each month. Missing a month, reducing the saving amount or withdrawing from your savings could impact your application.
 
 
 ## Where to Keep Your Deposit
 
-Keep it wherever is connivent for you to regularly contribute to. You can also consider looking around at interest rates being provided on deposits as the deposit rates provided by banks can be quite low. If you earned 3% interest on €40,000 over a year you would have an extra €1,200 to go towards your new home!
+Keep your deposit wherever is connivent for you to regularly contribute to. You should also consider shopping around for a competitive deposit interest rate as some banks provide very little interest. If, for example, you earn 3% interest on €40,000 over a year you would have an extra €1,200 to go towards your new home!
 
-If applying with a partner it is not an issue if you have separate savings accounts. 
+If applying for a mortgage with a partner it is not an issue if you have separate savings accounts. 
 
 
 ## Overdrafts and Missed Payments
@@ -28,3 +28,7 @@ Contrary to popular belief, a small amount gambling is not going to disqualify y
 Frequently contributing to safe long-term investments won't be a concern for lenders.
 
 Investing in assets like cryptocurrencies and high risk stocks can be seen as a form of gambling, though the policy varies by lender. It is best avoided in the lead up to your mortgage application however if you do invest, make sure it's with your disposable income and that you don't dip into your regular savings.
+
+### Can I use investments as part of my deposit?
+
+Yes, though of course you will need to sell the assets and you may need to prove to your lender that you have covered tax owed on any profits.

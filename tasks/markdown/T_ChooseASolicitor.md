@@ -1,3 +1,5 @@
+After you are Sale Agreed on a home the first thing the seller will ask for is your solicitor's information so it's a good idea to have one lined up beforehand.
+
 The type of solicitor you will need to take care of the legalities of buying a home is known as a *Conveyancing* solicitor. 
  
 These days you do not need to meet with your solicitor in person when buying a home or signing contracts so you don't necessarily need to find one based in your local area unless you prefer to meet with them in person. The most important thing you should look for in a solicitor is their reputation as a good one will give you peace of mind and keep the sale moving at a reasonable pace.
