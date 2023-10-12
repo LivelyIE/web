@@ -15,7 +15,7 @@ Usually you are required to have mortgage protection insurance protection in pla
 * You cannot acquire this insurance due to a current health condition or hazardous occupation. 
 * You have a suitable life insurance policy in place already. 
 
-Exemptions are made on a case by case basis and a lender is nt obliged to give you a mortgage. It is important to know the financial risk of having no cover in place before signing up to the mortgage. In the event of death, there will be no insurance policy to pay off the mortgage so the joint owner or your beneficiaries will have to continue repaying the mortgage.
+Exemptions are made on a case by case basis and a lender is not obliged to give you a mortgage. It is important to know the financial risk of having no cover in place before signing up to the mortgage. In the event of death, there will be no insurance policy to pay off the mortgage so the joint owner or your beneficiaries will have to continue repaying the mortgage.
 
 
 ### Reducing Term Cover vs Level Term Cover
