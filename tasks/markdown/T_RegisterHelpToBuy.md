@@ -26,7 +26,7 @@ You can apply online with the [Revenue Online Service](https://www.ros.ie/myacco
 
 # Vacant Property Grant
 
-The *Vacant Property Refurbishment Grant* is a grant that helps homeowners   transform vacant properties into livable homes. The property must be vacant for at least two years. Grants are available for up to €50,000, or €70,000 for structurally unsound properties. You will need to provide quotations from independent professionals in order to avail of the grant. Applications are made to and assessed by local county and city councils. 
+The *Vacant Property Refurbishment Grant* is a grant that helps homeowners transform vacant properties into livable homes. The property must be vacant for at least two years. Grants are available for up to €50,000, or €70,000 for structurally unsound properties. You will need to provide quotations from independent professionals in order to avail of the grant. Applications are made to and assessed by local county and city councils. 
 
 Importantly you do not need to own the property before you apply, proof of engagement with the seller is sufficient.
 

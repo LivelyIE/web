@@ -15,9 +15,8 @@ All homes require maintenance, and it is common for these reports to note minor 
 * If the issue is too much to overcome, you may pull out of the sale.
 
 
-### New Home Snag Lists
+## New Home Snag Lists
 
 For new homes, you likely won't need a full structural report. Instead, you will compile a *Snag List* which will consist of a list of defects that need 
- to be addressed by the builders of the property before the sale is finalised. Items in a snag list can be anything from a broken plug socket to an uneven surface.
- You can complete a snag list yourself, though it is wise to hire a professional. 
+ to be addressed by the builders of the property before the sale is finalised. Items in a snag list can be anything from a broken plug socket to an uneven surface. If you don't provide the developer with this list then you will be responsible for defects after the sale closes which can be costly and time consuming to repair.
  

@@ -2,9 +2,14 @@ Mortgage Protection insurance is a type of life insurance that pays off your mor
  one of the policy holders die.
  You will be required by law to take out mortgage protection insurance before your loan is approved.
 
-If you have **any** underlying health issues then it is important to organise mortgage protection insurance well in advance of going Sale Agreed. Not having this in place is one of the most common causes of homebuying delays as a health issue can mean a requirement for a letter from your doctor or awaiting results of a more specific medical evaluation. You can easily change the start date and protection amount after you go Sale Agreed.
- 
-Make sure to shop around as rates can vary significantly. You do not need to take out mortgage protection insurance with your lender.
+
+Make sure to shop around, you don't need to take out mortgage protection insurance with your lender and rates can vary significantly.
+
+## Important - Underlying Health Issues
+
+Generally you can purchase mortgage protection in a few days. However if you have **any** underlying health issues then it is important to organise mortgage protection insurance well in advance of going Sale Agreed. Not having this in place is one of the most common causes of homebuying delays as a health issue can mean a requirement for a letter from your doctor or awaiting results of a more specific medical evaluation as requested by the insurance company. 
+
+You can easily change the start date and protection amount after you go Sale Agreed. 
 
 
 ### What if I am unable to get insured?

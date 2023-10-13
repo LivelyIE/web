@@ -19,13 +19,3 @@ A percentage of mortgage loans granted by a bank can be above the standard 3.5x/
 What banks consider your *variable income* are things like commission, bonuses and overtime pay. Depending on the lender,
  they will factor in 50% - 100% of this income by taking the average over the past 2 - 3 years. The longer you have been in the job,
  the more data they have and the more willing they are to take variable income into consideration. 
- 
-
-### Can I use investments as part of my deposit?
-
-Yes, though of course you will need to sell the assets and you may need to prove to your lender that you have covered tax owed on any profits.
- 
-
-## Consider a Mortgage Broker
-
-If you feel like you could use a helping hand with your mortgage application then talking to mortgage broker with a deep understanding of the process could make the process easier for you. Choose from one of the brokers in the Lively app to make your application quicker and save thousands by finding the best rate for you.

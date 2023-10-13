@@ -8,14 +8,14 @@ It's a good idea to open a separate account to save into. Many people have two s
 
 ## Where to Keep Your Deposit
 
-Keep your deposit wherever is connivent for you to regularly contribute to. You should also consider shopping around for a competitive deposit interest rate as some banks provide very little interest. If, for example, you earn 3% interest on €40,000 over a year you would have an extra €1,200 to go towards your new home!
+Keep your deposit wherever is convenient for you to regularly contribute to. You should also consider shopping around for a competitive deposit interest rate as some banks provide very little interest. If, for example, you earn 3% interest on €40,000 over a year you would have an extra €1,200 to go towards your new home!
 
 If applying for a mortgage with a partner it is not an issue if you have separate savings accounts. 
 
 
 ## Overdrafts and Missed Payments
 
-Lenders don't like to see when can't afford a bill or loan payment or when you need to use your overdraft. While one-off occurrences can sometimes be explained it's best to have an additional buffer in your current account to make sure you aren't missing any payments and demonstrating financial responsibility.
+Lenders don't like to see when you can't afford a bill or loan payment or when you need to use your overdraft. While one-off occurrences can sometimes be explained it's best to have an additional buffer in your current account to make sure you aren't missing any payments.
  
 
 ## Gambling

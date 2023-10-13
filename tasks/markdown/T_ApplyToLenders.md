@@ -3,7 +3,7 @@ Once you have your documents ready, it's time to start reaching out to lenders! 
  
 ## Approval in Principle
 
-When you submit your initial financial information to a lender, they will grant you *Approval in Principle* (AIP). Approval in principle is an estimate of how much a lender may grant you if your financial circumstances don't change. When finalising your mortgage, they will carry out more thorough checks and the amount you can borrow may ultimately be different.
+When you submit your initial financial information to a lender, they will grant you *Approval in Principle* (AIP). Approval in principle is an estimate of how much a lender may grant you if your financial circumstances don't change. When finalising your mortgage, they will carry out more thorough checks and the amount you can borrow may ultimately be different. You should apply for the maximum amount you can even if you don't intend to use it, you can lower the amount when you find a home. 
  
 It's a good idea to get approval in principle from more than one lender in case there is delays with a lender or they withdraw their offer when you are closing the mortgage application. If a mortgage application falls through after you are sale agreed on a property, having another lender on standby may prevent you from missing out on a home.
 

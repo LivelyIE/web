@@ -3,7 +3,7 @@ While your income is an important indicator in how much you can borrow, your exp
  * **Savings** - Planned savings that are made consistently on a monthly basis.
 * **Rent Payments** - If paying in cash be sure to point out regular withdrawals for rent payments in your bank statements to your lender. It also helps to have some written evidence of the rental agreement in place.
 * **Disposable Income** - The amount remaining after savings and regular expenses.
-* **Loan Repayments** - If you are making repayments on a loan that will end before you will finalise your mortgage, those payments can be included in this Calculation.
+* **Loan Repayments** - If you are making repayments on a loan that will end before you will finalise your mortgage, those payments can be included in this calculation.
 * **Pension Contributions** - Any voluntary pension contributions are considered as part of your repayment capacity as, in theory, they could be halted to contribute to mortgage repayments.
 
 Regular expenses are considered against your repayment capacity:
