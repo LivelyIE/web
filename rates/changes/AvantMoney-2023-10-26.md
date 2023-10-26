@@ -1,12 +1,12 @@
 # Avant Money Increases Rates By Up To 0.25%
 
-## 25-Oct-2023
+## 26-Oct-2023
 
 
 Avant Money will Increases their fixed rates by up to 0.25%. 
 The changes will come into effect on October 20th.
 
-Buyers with an existing loan offer need to drawdown by October 28th to avail
+Buyers with an existing loan offer need to drawdown by October 29th to avail
 of current rates.
 
 
