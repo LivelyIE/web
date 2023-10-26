@@ -1,6 +1,6 @@
 # Avant Money Increases Rates By Up To 0.25%
 
-## 26-Oct-2023
+## 01 Sep 2023
 
 
 Avant Money will Increases their fixed rates by up to 0.25%. 
