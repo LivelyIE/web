@@ -19,4 +19,4 @@ All brokers make commission from lenders and insurance providers for signing you
  
 
 ## Broker Fees
-If you choose to apply via a broker you should contact them at any time from six months away from your mortgage application to when you're ready to apply.
+If you choose to apply via a broker you should contact them at any time from six months away from your mortgage application right up to when you're ready to apply.
