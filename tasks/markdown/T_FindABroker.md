@@ -17,6 +17,6 @@ While a broker is not required, here are some reasons you might consider working
 All brokers make commission from lenders and insurance providers for signing you up as a customer. Some brokers may also charge a fee for their services.
  Using a broker will not increase the cost of these products.
  
+## When To Contact a Broker
 
-## Broker Fees
 If you choose to apply via a broker you should contact them at any time from six months away from your mortgage application right up to when you're ready to apply.
