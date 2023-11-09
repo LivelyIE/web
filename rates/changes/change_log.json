@@ -1,5 +1,11 @@
 [
     {
+        "id": "FinanceIreland-2023-11-09",
+        "headline": "Finance Ireland Increases Variable Rates By 0.25%",
+        "date": "2023-11-09",
+        "isRateIncrease": true
+    },
+    {
         "id": "AvantMoney-2023-09-01",
         "headline": "Avant Money Increases Rates By Up To 0.25%",
         "date": "2023-09-01",
