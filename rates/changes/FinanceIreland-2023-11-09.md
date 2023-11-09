@@ -3,7 +3,7 @@
 ## 09 Nov 2023
 
 
-Finance Ireland will increases their variable rates by 0.25%. The changes will come into effect on 2023-11-13. Fixed rates remain unchanged.
+Finance Ireland will increases their variable rates by 0.25%. The changes will come into effect on Monday November 13th. Fixed rates remain unchanged.
 
 
 | Product | New Rate | Change |
