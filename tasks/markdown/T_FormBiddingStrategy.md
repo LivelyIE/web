@@ -26,7 +26,7 @@ It's easy to get caught up in a bidding war, and after bidding "once more" too m
 ### Choose Your Increment Carefully
 
 Typically estate agents accept bids in increments no smaller than €1,000. When bidding against potential buyers, sometimes increasing the bid by a few 
- thousand Euro can send strong signal to other buyers and deter them from outbidding you.
+ thousand Euro can send a strong signal to other buyers and deter them from outbidding you.
 
 
 ### Matching Bids
