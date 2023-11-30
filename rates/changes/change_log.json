@@ -1,5 +1,11 @@
 [
     {
+        "id": "PTSB-2023-11-30",
+        "headline": "PTSB Increases & Decreases Interest Rates",
+        "date": "2023-11-30",
+        "isRateIncrease": true
+    },
+    {
         "id": "MoCo-2023-11-17",
         "headline": "A New Lender Enters the Market - MoCo!",
         "date": "2023-11-17",
