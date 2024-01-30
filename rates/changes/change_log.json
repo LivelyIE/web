@@ -1,5 +1,11 @@
 [
     {
+        "id": "FinanceIreland-2024-01-30",
+        "headline": "Finance Ireland Increases Rates By Up To 0.25%",
+        "date": "2024-01-30",
+        "isRateIncrease": true
+    },
+    {
         "id": "PTSB-2023-11-30",
         "headline": "PTSB Increases & Decreases Interest Rates",
         "date": "2023-11-30",
