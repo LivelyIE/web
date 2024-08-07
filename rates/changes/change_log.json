@@ -1,5 +1,11 @@
 [
     {
+        "id": "Nua-2024-08-06",
+        "headline": "A New Lender Enters the Market - Núa!",
+        "date": "2024-08-06",
+        "isRateIncrease": false
+    },
+    {
         "id": "ICS-2024-08-05",
         "headline": "ICS Decreases Rates By Up To 0.35%",
         "date": "2024-08-01",
@@ -51,12 +57,6 @@
         "id": "FinanceIreland-2023-11-09",
         "headline": "Finance Ireland Increase Variable Rates 0.25%",
         "date": "2023-11-09",
-        "isRateIncrease": true
-    },
-    {
-        "id": "AvantMoney-2023-09-01",
-        "headline": "Avant Money Increases Rates By Up To 0.25%",
-        "date": "2023-09-01",
         "isRateIncrease": true
     }
 ]
