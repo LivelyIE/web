@@ -1,7 +1,19 @@
 [
     {
+        "id": "N\u00faa-2024-09-12",
+        "headline": "N\u00faa Decreases Rates By Up To 0.5%",
+        "date": "2024-09-12",
+        "isRateIncrease": false
+    },
+    {
+        "id": "Nua-2024-09-12",
+        "headline": "Nua Decreases Rates By Up To 0.5%",
+        "date": "2024-09-12",
+        "isRateIncrease": false
+    },
+    {
         "id": "Nua-2024-08-06",
-        "headline": "A New Lender Enters the Market - Núa!",
+        "headline": "A New Lender Enters the Market - N\u00faa!",
         "date": "2024-08-06",
         "isRateIncrease": false
     },
@@ -45,18 +57,6 @@
         "id": "PTSB-2023-11-30",
         "headline": "PTSB Increases & Decreases Interest Rates",
         "date": "2023-11-30",
-        "isRateIncrease": true
-    },
-    {
-        "id": "MoCo-2023-11-17",
-        "headline": "A New Lender Enters the Market - MoCo!",
-        "date": "2023-11-17",
-        "isRateIncrease": true
-    },
-    {
-        "id": "FinanceIreland-2023-11-09",
-        "headline": "Finance Ireland Increase Variable Rates 0.25%",
-        "date": "2023-11-09",
         "isRateIncrease": true
     }
 ]
