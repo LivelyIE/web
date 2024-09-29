@@ -15,7 +15,7 @@ As you can see, opting for a higher monthly repayment to shorten your mortgage l
 ### How long can my mortgage last?
 
 The maximum length of your mortgage will depend on your age and overall health, with banks being more willing to extend the length of mortgages of younger people.
- Lenders in Ireland typically max out at 35 year mortgages.
+ Lenders in Ireland typically max out at 35 year mortgages however recently a small number of lenders have begun to offer 40 year terms.
 
 
 ### What happens if I want to end the mortgage before the term ends?
