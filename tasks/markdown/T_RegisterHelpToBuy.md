@@ -1,7 +1,7 @@
 # Help To Buy Scheme
 
 The Help To Buy Scheme is the most popular support for buyers. It helps first time buyers applying for a mortgage to purchase a newly built home or to build their own first home. 
- Buyers may claim a refund of their income tax paid over the previous 4 years. The maximum refund available until the end of 2025 is €30,000.
+ Buyers may claim a refund of their income tax paid over the previous 4 years. The maximum refund available until the end of 2029 is €30,000.
  
 ### How do I calculate how much I am eligible for?
 
