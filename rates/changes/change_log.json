@@ -1,5 +1,11 @@
 [
     {
+        "id": "AIB-2024-10-25",
+        "headline": "AIB Announces Green Rates As Low As 3%",
+        "date": "2024-10-25",
+        "isRateIncrease": false
+    },
+    {
         "id": "MoCo-2024-10-03",
         "headline": "MoCo Decreases Rates By Up To 0.25%",
         "date": "2024-10-03",
@@ -51,12 +57,6 @@
         "id": "PTSB-2024-03-22",
         "headline": "PTSB Decreases Rates By Up To 0.3%",
         "date": "2024-03-22",
-        "isRateIncrease": false
-    },
-    {
-        "id": "FinanceIreland-2024-01-30",
-        "headline": "Finance Ireland Decreases Rates By 0.45%",
-        "date": "2024-01-30",
         "isRateIncrease": false
     }
 ]
