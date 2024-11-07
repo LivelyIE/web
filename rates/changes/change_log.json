@@ -1,5 +1,11 @@
 [
     {
+        "id": "AvantMoney-2024-11-07",
+        "headline": "Avant Money Decreases Rates By Up To 0.4%",
+        "date": "2024-11-07",
+        "isRateIncrease": false
+    },
+    {
         "id": "AIB-2024-10-25",
         "headline": "AIB Announces Green Rates As Low As 3%",
         "date": "2024-10-25",
@@ -51,12 +57,6 @@
         "id": "AIB-2024-04-08",
         "headline": "AIB Decreases Green Rates By 0.2%",
         "date": "2024-04-08",
-        "isRateIncrease": false
-    },
-    {
-        "id": "PTSB-2024-03-22",
-        "headline": "PTSB Decreases Rates By Up To 0.3%",
-        "date": "2024-03-22",
         "isRateIncrease": false
     }
 ]
