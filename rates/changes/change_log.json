@@ -1,5 +1,11 @@
 [
     {
+        "id": "PTSB-2025-01-15",
+        "headline": "PTSB Decreases Rates By Up To 0.95%",
+        "date": "2025-01-15",
+        "isRateIncrease": false
+    },
+    {
         "id": "ICS-2025-01-04",
         "headline": "ICS Decreases Rates By Up To 0.4%",
         "date": "2025-01-04",
@@ -51,12 +57,6 @@
         "id": "Nua-2024-08-06",
         "headline": "A New Lender Enters the Market - N\u00faa!",
         "date": "2024-08-06",
-        "isRateIncrease": false
-    },
-    {
-        "id": "ICS-2024-08-05",
-        "headline": "ICS Decreases Rates By Up To 0.35%",
-        "date": "2024-08-01",
         "isRateIncrease": false
     }
 ]
