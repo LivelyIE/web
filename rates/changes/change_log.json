@@ -1,5 +1,11 @@
 [
     {
+        "id": "AvantMoney-2025-06-06",
+        "headline": "Avant Money Drops Variable Rate Below 3%",
+        "date": "2025-06-06",
+        "isRateIncrease": false
+    },
+    {
         "id": "AIB-2025-05-01",
         "headline": "AIB Group Decreases Rates By Up To 0.75%",
         "date": "2025-05-01",
@@ -51,12 +57,6 @@
         "id": "AvantMoney-2024-11-07",
         "headline": "Avant Money Decreases Rates By Up To 0.4%",
         "date": "2024-11-07",
-        "isRateIncrease": false
-    },
-    {
-        "id": "AIB-2024-10-25",
-        "headline": "AIB Announces Green Rates As Low As 3%",
-        "date": "2024-10-25",
         "isRateIncrease": false
     }
 ]
