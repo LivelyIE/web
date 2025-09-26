@@ -1,5 +1,11 @@
 [
     {
+        "id": "PTSB-2025-09-26",
+        "headline": "PTSB & Haven Decrease Rates By Up To 0.25%",
+        "date": "2025-09-26",
+        "isRateIncrease": false
+    },
+    {
         "id": "EBS-2025-07-23",
         "headline": "EBS & Haven Decrease Rates By Up To 0.5%",
         "date": "2025-07-23",
@@ -51,12 +57,6 @@
         "id": "MoCo-2024-12-10",
         "headline": "MoCo Decreases Rates By Up To 0.25%",
         "date": "2024-12-10",
-        "isRateIncrease": false
-    },
-    {
-        "id": "BOI-2024-11-19",
-        "headline": "BOI Decreases Fixed Rates By 0.5%",
-        "date": "2024-11-19",
         "isRateIncrease": false
     }
 ]
