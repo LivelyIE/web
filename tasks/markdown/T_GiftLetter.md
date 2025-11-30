@@ -16,9 +16,9 @@ During a calendar year any individual can gift up to €3,000 to another. This m
 After the yearly allowance, you may be required to pay *Capital Acquisitions Tax* (CAT) if the gift exceeds a certain threshold.
  CAT is charged to the receiver of the gift and is calculated as a total of all gift amounts from the 5th of December, 1991. 
  
-In the most common scenario, whereby a parent gifts a child a lump sum, there is a lifetime tax free threshold of €335,000.
+In the most common scenario, whereby a parent gifts a child a lump sum, there is a lifetime tax free threshold of €400,000.
 
-For other direct relatives such as a sibling or niece, the allowance is €32,500. For anyone else, the allowance is €16,250.
+For other direct relatives such as a sibling or niece, the allowance is €40,000. For anyone else, the allowance is €20,000.
 
 
 ## Interest-Free Loans from Relatives
