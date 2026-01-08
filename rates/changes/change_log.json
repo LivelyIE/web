@@ -1,5 +1,11 @@
 [
     {
+        "id": "AvantMoney-2026-01-08",
+        "headline": "Avant Decreases Rates By Up To 0.35%",
+        "date": "2026-01-08",
+        "isRateIncrease": false
+    },
+    {
         "id": "MoCo-2025-11-18",
         "headline": "MoCo Decreases Rates By 0.15%",
         "date": "2025-11-18",
@@ -51,12 +57,6 @@
         "id": "Nua-2025-02-08",
         "headline": "N\u00faa Decreases Rates By Up To 0.75%",
         "date": "2025-02-08",
-        "isRateIncrease": false
-    },
-    {
-        "id": "PTSB-2025-01-15",
-        "headline": "PTSB Decreases Rates By Up To 0.95%",
-        "date": "2025-01-15",
         "isRateIncrease": false
     }
 ]
