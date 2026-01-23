@@ -1,5 +1,11 @@
 [
     {
+        "id": "PTSB-2026-01-23",
+        "headline": "PTSB Decreases Rates By Up To 0.45%",
+        "date": "2026-01-23",
+        "isRateIncrease": false
+    },
+    {
         "id": "AvantMoney-2026-01-08",
         "headline": "Avant Decreases Rates By Up To 0.35%",
         "date": "2026-01-08",
@@ -51,12 +57,6 @@
         "id": "AvantMoney-2025-03-24",
         "headline": "Avant Launches New 'Tracker' Variable Rate",
         "date": "2025-03-24",
-        "isRateIncrease": false
-    },
-    {
-        "id": "Nua-2025-02-08",
-        "headline": "N\u00faa Decreases Rates By Up To 0.75%",
-        "date": "2025-02-08",
         "isRateIncrease": false
     }
 ]
